@@ -1,0 +1,14 @@
+--- B2B SEO Backlink Audit Results ---
+
+Domain: tech-authority-journal.com
+Status: [APPROVED] (Risk Score: 0/100)
+Audit Notes:
+ - Clean domain profile with verified search traffic.
+--------------------------------------------------
+Domain: cheap-guest-post-farm.net
+Status: [REJECTED] (Risk Score: 100/100)
+Audit Notes:
+ - High DR (72) but low organic traffic (120). Likely inflated/PBN.
+ - Excessive outbound link ratio (0.65). High link dilution.
+ - Topical contamination detected (Casino/Crypto/Essay link mill patterns).
+--------------------------------------------------
